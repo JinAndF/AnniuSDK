@@ -7,6 +7,7 @@
 //
 
 #import "JTViewController.h"
+#import "Huohuahua.h"
 
 @interface JTViewController ()
 

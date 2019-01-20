@@ -1,0 +1,16 @@
+PODS:
+  - anniuSDK (0.0.1)
+
+DEPENDENCIES:
+  - anniuSDK (from `../`)
+
+EXTERNAL SOURCES:
+  anniuSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  anniuSDK: d218636e9f4b5ba8d3d45fbb4211b19004e1e1f0
+
+PODFILE CHECKSUM: 7f6ce7200ce7a1b6a6fbe0df1f7dbf85aedd4454
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,6 @@
+framework module anniuSDK {
+  umbrella header "anniuSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
